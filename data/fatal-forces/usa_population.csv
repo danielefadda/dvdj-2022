@@ -1,4 +1,4 @@
-name,state,alpha_code,total_pop,white,black,hisp,other
+name,n_code,alpha_code,total_pop,white,black,hisp,other
 Alabama,1,AL,4779736,1628489,1268317,195469,1687458
 Alaska,2,AK,710231,273169,22792,48237,366031
 Arizona,4,AZ,6392017,2837972,274859,1974428,1304755
