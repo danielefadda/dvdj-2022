@@ -1,0 +1,205 @@
+Numeric code,state,Name,count,race,population,ratio
+1,AL,Alabama,141,Total,4850771,29.07
+1,AL,Alabama,76,White,3198079,23.76
+1,AL,Alabama,3,Hispanic,198375,15.12
+1,AL,Alabama,37,Black,1280946,28.88
+2,AK,Alaska,51,Total,738565,69.05
+2,AK,Alaska,28,White,454498,61.61
+2,AK,Alaska,3,Black,22534,133.13
+4,AZ,Arizona,341,Total,6809946,50.07
+4,AZ,Arizona,123,White,3786418,32.48
+4,AZ,Arizona,100,Hispanic,2103523,47.54
+4,AZ,Arizona,21,Black,276146,76.05
+5,AR,Arkansas,105,Total,2977944,35.26
+5,AR,Arkansas,26,Black,457251,56.86
+5,AR,Arkansas,57,White,2174326,26.22
+6,CA,California,384,Hispanic,15105860,25.42
+6,CA,California,262,White,14777594,17.73
+6,CA,California,159,Black,2161459,73.56
+6,CA,California,1079,Total,38982847,27.68
+8,CO,Colorado,263,Total,5436519,48.38
+8,CO,Colorado,20,Black,209885,95.29
+8,CO,Colorado,59,Hispanic,1157200,50.99
+8,CO,Colorado,116,White,3731976,31.08
+9,CT,Connecticut,5,Black,350820,14.25
+9,CT,Connecticut,22,Total,3594478,6.12
+9,CT,Connecticut,9,White,2446049,3.68
+9,CT,Connecticut,7,Hispanic,551916,12.68
+10,DE,Delaware,17,Total,943732,18.01
+10,DE,Delaware,6,White,594911,10.09
+10,DE,Delaware,1,Hispanic,84793,11.79
+10,DE,Delaware,6,Black,201411,29.79
+11,DC,District of Columbia,2,White,241901,8.27
+11,DC,District of Columbia,23,Total,672391,34.21
+11,DC,District of Columbia,16,Black,315159,50.77
+12,FL,Florida,472,Total,20278447,23.28
+12,FL,Florida,202,White,11124951,18.16
+12,FL,Florida,61,Hispanic,5015015,12.16
+12,FL,Florida,141,Black,3129406,45.06
+13,GA,Georgia,277,Total,10201635,27.15
+13,GA,Georgia,100,White,5469446,18.28
+13,GA,Georgia,14,Hispanic,950380,14.73
+13,GA,Georgia,98,Black,3150514,31.11
+15,HI,Hawaii,37,Total,1421658,26.03
+15,HI,Hawaii,3,White,316047,9.49
+15,HI,Hawaii,2,Black,23977,83.41
+15,HI,Hawaii,1,Hispanic,145381,6.88
+84,HI,Howland Island,2,Black,0,inf
+84,HI,Howland Island,3,White,0,inf
+84,HI,Howland Island,37,Total,0,inf
+84,HI,Howland Island,1,Hispanic,0,inf
+16,ID,Idaho,40,White,1368118,29.24
+16,ID,Idaho,61,Total,1657375,36.81
+16,ID,Idaho,1,Black,10658,93.83
+16,ID,Idaho,6,Hispanic,201978,29.71
+17,IL,Illinois,70,Black,1806398,38.75
+17,IL,Illinois,149,Total,12854526,11.59
+17,IL,Illinois,36,White,7955484,4.53
+17,IL,Illinois,17,Hispanic,2162070,7.86
+18,IN,Indiana,35,Black,604249,57.92
+18,IN,Indiana,78,White,5280583,14.77
+18,IN,Indiana,138,Total,6614418,20.86
+18,IN,Indiana,5,Hispanic,441968,11.31
+19,IA,Iowa,8,Black,104194,76.78
+19,IA,Iowa,30,White,2697252,11.12
+19,IA,Iowa,45,Total,3118102,14.43
+20,KS,Kansas,9,Black,163490,55.05
+20,KS,Kansas,10,Hispanic,334860,29.86
+20,KS,Kansas,40,White,2220256,18.02
+20,KS,Kansas,70,Total,2903820,24.11
+21,KY,Kentucky,3,Hispanic,152072,19.73
+21,KY,Kentucky,85,White,3764473,22.58
+21,KY,Kentucky,136,Total,4424376,30.74
+21,KY,Kentucky,18,Black,348472,51.65
+22,LA,Louisiana,153,Total,4663461,32.81
+22,LA,Louisiana,73,Black,1490050,48.99
+22,LA,Louisiana,2,Hispanic,231708,8.63
+22,LA,Louisiana,50,White,2752253,18.17
+23,ME,Maine,1,Black,16065,62.25
+23,ME,Maine,1,Hispanic,20427,48.95
+23,ME,Maine,21,White,1244859,16.87
+23,ME,Maine,30,Total,1330158,22.55
+24,MD,Maryland,61,Black,1754143,34.77
+24,MD,Maryland,4,Hispanic,573303,6.98
+24,MD,Maryland,31,White,3109275,9.97
+24,MD,Maryland,105,Total,5996079,17.51
+25,MA,Massachusetts,22,White,4952367,4.44
+25,MA,Massachusetts,54,Total,6789319,7.95
+25,MA,Massachusetts,8,Black,453683,17.63
+25,MA,Massachusetts,8,Hispanic,760177,10.52
+26,MI,Michigan,35,Black,1359208,25.75
+26,MI,Michigan,126,Total,9925568,12.69
+26,MI,Michigan,2,Hispanic,484568,4.13
+26,MI,Michigan,59,White,7493362,7.87
+71,MI,Midway Islands,126,Total,0,inf
+71,MI,Midway Islands,59,White,0,inf
+71,MI,Midway Islands,2,Hispanic,0,inf
+71,MI,Midway Islands,35,Black,0,inf
+27,MN,Minnesota,3,Hispanic,284649,10.54
+27,MN,Minnesota,83,Total,5490726,15.12
+27,MN,Minnesota,16,Black,321543,49.76
+27,MN,Minnesota,47,White,4434473,10.6
+28,MS,Mississippi,33,Black,1118458,29.5
+28,MS,Mississippi,44,White,1702268,25.85
+28,MS,Mississippi,1,Hispanic,88261,11.33
+28,MS,Mississippi,94,Total,2986220,31.48
+29,MO,Missouri,3,Hispanic,244420,12.27
+29,MO,Missouri,195,Total,6075300,32.1
+29,MO,Missouri,59,Black,698140,84.51
+29,MO,Missouri,87,White,4849068,17.94
+30,MT,Montana,32,White,891990,35.87
+30,MT,Montana,48,Total,1029862,46.61
+31,NE,Nebraska,6,Black,87260,68.76
+31,NE,Nebraska,4,Hispanic,198300,20.17
+31,NE,Nebraska,22,White,1512046,14.55
+31,NE,Nebraska,37,Total,1893921,19.54
+32,NV,Nevada,17,Black,242682,70.05
+32,NV,Nevada,31,Hispanic,814305,38.07
+32,NV,Nevada,48,White,1457272,32.94
+32,NV,Nevada,121,Total,2887725,41.9
+33,NH,New Hampshire,21,Total,1331848,15.77
+33,NH,New Hampshire,16,White,1211110,13.21
+34,NJ,New Jersey,8,Hispanic,1764520,4.53
+34,NJ,New Jersey,86,Total,8960161,9.6
+34,NJ,New Jersey,22,White,5023606,4.38
+34,NJ,New Jersey,36,Black,1136347,31.68
+35,NM,New Mexico,158,Total,2084828,75.79
+35,NM,New Mexico,2,Black,37287,53.64
+35,NM,New Mexico,79,Hispanic,1004103,78.68
+35,NM,New Mexico,28,White,795728,35.19
+36,NY,New York,137,Total,19798228,6.92
+36,NY,New York,45,White,11071563,4.06
+36,NY,New York,11,Hispanic,3726238,2.95
+36,NY,New York,53,Black,2842869,18.64
+37,NC,North Carolina,61,Black,2127294,28.67
+37,NC,North Carolina,110,White,6397460,17.19
+37,NC,North Carolina,208,Total,10052564,20.69
+37,NC,North Carolina,8,Hispanic,914792,8.75
+38,ND,North Dakota,6,White,638773,9.39
+38,ND,North Dakota,16,Total,745475,21.46
+39,OH,Ohio,99,White,9243187,10.71
+39,OH,Ohio,74,Black,1408708,52.53
+39,OH,Ohio,206,Total,11609756,17.74
+39,OH,Ohio,2,Hispanic,414490,4.83
+40,OK,Oklahoma,117,White,2589210,45.19
+40,OK,Oklahoma,11,Hispanic,394879,27.86
+40,OK,Oklahoma,37,Black,278887,132.67
+40,OK,Oklahoma,209,Total,3896251,53.64
+41,OR,Oregon,8,Hispanic,509507,15.7
+41,OR,Oregon,8,Black,72636,110.14
+41,OR,Oregon,119,Total,4025127,29.56
+41,OR,Oregon,78,White,3079995,25.32
+95,PA,Palmyra Atoll,47,Black,0,inf
+95,PA,Palmyra Atoll,64,White,0,inf
+95,PA,Palmyra Atoll,9,Hispanic,0,inf
+95,PA,Palmyra Atoll,154,Total,0,inf
+42,PA,Pennsylvania,154,Total,12790505,12.04
+42,PA,Pennsylvania,64,White,9881135,6.48
+42,PA,Pennsylvania,47,Black,1358263,34.6
+42,PA,Pennsylvania,9,Hispanic,874833,10.29
+44,RI,Rhode Island,6,Total,1056138,5.68
+44,RI,Rhode Island,1,Hispanic,153910,6.5
+44,RI,Rhode Island,2,Black,57860,34.57
+44,RI,Rhode Island,1,White,773388,1.29
+45,SC,South Carolina,119,Total,4893444,24.32
+45,SC,South Carolina,2,Hispanic,267398,7.48
+45,SC,South Carolina,63,White,3119676,20.19
+45,SC,South Carolina,32,Black,1321219,24.22
+46,SD,South Dakota,24,Total,855444,28.06
+46,SD,South Dakota,11,White,707282,15.55
+47,TN,Tennessee,205,Total,6597381,31.07
+47,TN,Tennessee,44,Black,1099118,40.03
+47,TN,Tennessee,4,Hispanic,340063,11.76
+47,TN,Tennessee,116,White,4898888,23.68
+48,TX,Texas,123,Black,3199022,38.45
+48,TX,Texas,170,Hispanic,10673909,15.93
+48,TX,Texas,215,White,11755493,18.29
+48,TX,Texas,659,Total,27419612,24.03
+49,UT,Utah,86,Total,2993941,28.72
+49,UT,Utah,48,White,2365205,20.29
+49,UT,Utah,8,Black,31714,252.25
+49,UT,Utah,12,Hispanic,409311,29.32
+50,VT,Vermont,8,White,582404,13.74
+50,VT,Vermont,11,Total,624636,17.61
+51,VA,Virginia,47,Black,1576081,29.82
+51,VA,Virginia,5,Hispanic,749458,6.67
+51,VA,Virginia,58,White,5238967,11.07
+51,VA,Virginia,127,Total,8365952,15.18
+79,WI,Wake Island,65,White,0,inf
+79,WI,Wake Island,7,Hispanic,0,inf
+79,WI,Wake Island,24,Black,0,inf
+79,WI,Wake Island,112,Total,0,inf
+53,WA,Washington,81,White,5001482,16.2
+53,WA,Washington,24,Hispanic,882108,27.21
+53,WA,Washington,25,Black,251603,99.36
+53,WA,Washington,201,Total,7169967,28.03
+54,WV,West Virginia,42,White,1694887,24.78
+54,WV,West Virginia,8,Black,64414,124.2
+54,WV,West Virginia,67,Total,1836843,36.48
+55,WI,Wisconsin,7,Hispanic,380590,18.39
+55,WI,Wisconsin,24,Black,359094,66.83
+55,WI,Wisconsin,112,Total,5763217,19.43
+55,WI,Wisconsin,65,White,4715129,13.79
+56,WY,Wyoming,10,White,491626,20.34
+56,WY,Wyoming,22,Total,583200,37.72
+56,WY,Wyoming,2,Hispanic,56681,35.29
