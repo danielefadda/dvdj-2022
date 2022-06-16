@@ -1,0 +1,48 @@
+"Notes"	"Race"	"Race Code"	"Ethnicity"	"Ethnicity Code"	Population
+	"American Indian or Alaska Native"	"1002-5"	"Hispanic or Latino"	"2135-2"	1856467
+	"American Indian or Alaska Native"	"1002-5"	"Not Hispanic or Latino"	"2186-5"	2420149
+"Total"	"American Indian or Alaska Native"	"1002-5"			4276616
+	"Asian"	"A"	"Hispanic or Latino"	"2135-2"	644556
+	"Asian"	"A"	"Not Hispanic or Latino"	"2186-5"	19361328
+"Total"	"Asian"	"A"			20005884
+	"Black or African American"	"2054-5"	"Hispanic or Latino"	"2135-2"	3102716
+	"Black or African American"	"2054-5"	"Not Hispanic or Latino"	"2186-5"	41421313
+"Total"	"Black or African American"	"2054-5"			44524029
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Hispanic or Latino"	"2135-2"	229977
+	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	"Not Hispanic or Latino"	"2186-5"	613099
+"Total"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"			843076
+	"White"	"2106-3"	"Hispanic or Latino"	"2135-2"	53484603
+	"White"	"2106-3"	"Not Hispanic or Latino"	"2186-5"	196286602
+"Total"	"White"	"2106-3"			249771205
+	"More than one race"	"M"	"Hispanic or Latino"	"2135-2"	1934281
+	"More than one race"	"M"	"Not Hispanic or Latino"	"2186-5"	7546704
+"Total"	"More than one race"	"M"			9480985
+"Total"					328901795
+"---"
+"Dataset: Single-Race Population Estimates 2010-2020 by State and Single-Year Age"
+"Query Parameters:"
+"States: Alabama (01); Alaska (02); Arizona (04); Arkansas (05); California (06); Colorado (08); Connecticut (09); Delaware (10);"
+"District of Columbia (11); Florida (12); Georgia (13); Hawaii (15); Idaho (16); Illinois (17); Indiana (18); Iowa (19); Kansas"
+"(20); Kentucky (21); Louisiana (22); Maine (23); Maryland (24); Massachusetts (25); Michigan (26); Minnesota (27); Mississippi"
+"(28); Missouri (29); Montana (30); Nebraska (31); Nevada (32); New Hampshire (33); New Jersey (34); New Mexico (35); New York"
+"(36); North Carolina (37); North Dakota (38); Ohio (39); Oklahoma (40); Oregon (41); Pennsylvania (42); Rhode Island (44); South"
+"Carolina (45); South Dakota (46); Tennessee (47); Texas (48); Utah (49); Vermont (50); Virginia (51); Washington (53); West"
+"Virginia (54); Wisconsin (55)"
+"Yearly July 1st Estimates: 2020"
+"Group By: Race; Ethnicity"
+"Show Totals: True"
+"Show Zero Values: True"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/single-race.html for more information."
+"---"
+"Query Date: May 22, 2022 10:56:14 AM"
+"---"
+"Suggested Citation: Single-race Population Estimates, United States, 2010-2020. July 1st resident population by state, age, sex,"
+"single-race, and Hispanic origin, on CDC WONDER Online Database. Vintage 2020 estimates released by U.S. Census Bureau on July"
+"27, 2021. Accessed at http://wonder.cdc.gov/single-race-single-year-v2020.html on May 22, 2022 10:56:14 AM"
+"---"
+Footnotes:
+"1. Estimates for 2010-2020 are single-race Vintage 2020 postcensal estimates of the July 1 resident population. These estimates"
+"were prepared and released by the U.S. Census Bureau on July 27, 2021."
+"---"
+Caveats:
